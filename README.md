@@ -52,3 +52,7 @@ Olá! 👋 Sou Samuel, um entusiasta de desenvolvimento de sistemas e apaixonado
 
 
 *Keep coding and keep gaming! 🎮*
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelNevesO&theme=blood&background=F1FAEE&border=E63946&dates=457B9D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelNevesO&layout=compact&bg_color=fefae0&border_color=30A3DC&title_color=e63946&text_color=457b9d)
