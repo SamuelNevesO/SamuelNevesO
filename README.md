@@ -1,10 +1,5 @@
-# Bem-vindo ao meu Perfil no GitHub!
+Systems Development at Senai. Data Science at Digital Innovation One.
 
-Olá! 👋 Sou Samuel, um entusiasta de desenvolvimento de sistemas e apaixonado pelo mundo dos jogos. Atualmente, estou em formação na Escola Técnica SENAI e busco me aprimorar constantemente.
-
-## Sobre Mim
-
-🎮 Como um amante de jogos, vejo a programação como uma maneira de criar minhas próprias aventuras digitais. Estou no caminho da formação em desenvolvimento de sistemas e me esforço para combinar minha paixão por jogos com minhas habilidades de desenvolvimento.
 
 ## Habilidades
 
@@ -16,8 +11,6 @@ Olá! 👋 Sou Samuel, um entusiasta de desenvolvimento de sistemas e apaixonado
   <img src="https://img.shields.io/badge/Python-ffecd1?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/React-ffecd1?style=for-the-badge&logo=react" alt="React">
 </p>
-
-🚀 Minhas habilidades abrangem Java, JavaScript, HTML5, CSS, Python e React. Tenho uma paixão especial por explorar os diferentes aspectos da programação e aplicá-los em projetos inovadores.
 
 
 ## SoftSkills
@@ -34,13 +27,6 @@ Olá! 👋 Sou Samuel, um entusiasta de desenvolvimento de sistemas e apaixonado
 
 📂 Alguns dos meus projetos em destaque:
 
-1. **Programa de Reconhecimento de Voz**: Utilizando Python para criar um sistema de controle de dispositivos inteligentes por meio do reconhecimento de voz.
-
-
-## Estudando Ciência de Dados
-
-📊 Atualmente, estou participando do Bootcamp Santander em parceria com a plataforma DIO, com o objetivo de me aprofundar na área de ciência de dados. A busca pelo conhecimento é constante!
-
 
 ## Conecte-se Comigo
 
@@ -51,7 +37,7 @@ Olá! 👋 Sou Samuel, um entusiasta de desenvolvimento de sistemas e apaixonado
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SamuelNevesO)
 
 
-*Keep coding and keep gaming! 🎮*
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelNevesO&theme=blood&background=F1FAEE&border=E63946&dates=457B9D)](https://git.io/streak-stats)
 
