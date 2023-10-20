@@ -1,13 +1,10 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/SamuelNevesO/SamuelNevesO/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
 
 <h2>Hi, I'm Samuel Neves! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SamuelNevesO&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-SamuelNevesO.vercel.app/api/top-langs/?username=SamuelNevesO&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -57,4 +54,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c1121f&height=120&section=footer"/>
