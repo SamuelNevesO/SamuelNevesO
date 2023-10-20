@@ -36,4 +36,10 @@ Systems Development at Senai. Data Science at Digital Innovation One.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SamuelNevesO)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelNevesO&layout=compact&bg_color=fefae0&border_color=30A3DC&title_color=e63946&text_color=457b9d)
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SamuelNevesO&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-SamuelNevesO.vercel.app/api/top-langs/?username=SamuelNevesO&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
