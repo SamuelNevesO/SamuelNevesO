@@ -2,7 +2,7 @@
 
 <h2>Hi, I'm Samuel Neves! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="375" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="365" />
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SamuelNevesO&theme=radical&mode=weekly" />
