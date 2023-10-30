@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <p>👋<strong>Hello!</strong> </p>
+  <p>👋<strong>Hello World!</strong> </p>
   <p>🚀I'm Samuel Neves, I'm 22 years old. </p>
   <p>🎓Graduated in Systems Development from Senai-BA. </p>
   <p>🌌I venture into the area of Data Science with Python with certification from a Bootcamp. </p>
