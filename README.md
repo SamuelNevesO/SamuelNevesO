@@ -4,9 +4,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/samuel-neves-61302a228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="samueloneves7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
 
 ###
 
@@ -14,7 +18,6 @@
 - 🌌 During my training as a professional, I like to explore the different aspects of the software development area, always seeking to become a complete developer. In my free time, I enjoy gaming, reading, and watching!
 - 🌱 I'm currently studying Python and Django at DIO.
 - 🚀 I'm venturing into Data Science with Python!
-- 📧 Contact Me: samueloneves7@gmail.com;
 
 ###
 
