@@ -8,7 +8,7 @@
 
 **Hi 👋, My name is Samuel! A passionate Systems Analysis student from Brazil.**
 - 🌌 During my training as a professional, I like to explore the different aspects of the software development area, always seeking to become a complete developer. In my free time, I enjoy gaming, reading, and watching!
-- 🌱 I'm currently studying Python and Django at DIO.
+- 🌱 I'm currently studying Java and Spring Boot at DIO.
 - 🚀 I'm venturing into Data Science with Python!
 - 📧 Contact Me: samueloneves7@gmail.com;
 
