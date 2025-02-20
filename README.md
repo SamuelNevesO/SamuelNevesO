@@ -6,11 +6,19 @@
 
 ###
 
-**Hi 👋, My name is Samuel! A passionate Systems Analysis student from Brazil.**
-- 🌌 During my training as a professional, I like to explore the different aspects of the software development area, always seeking to become a complete developer. In my free time, I enjoy gaming, reading, and watching!
-- 🌱 I'm currently studying Java and Spring Boot at DIO.
-- 🚀 I'm venturing into Data Science with Python!
-- 📧 Contact Me: samueloneves7@gmail.com;
+# 🌎 Hey, I'm Samuel!  
+
+> *"Code, learn, grow – repeat."*  
+
+💻 **Systems Analysis student** from **Brazil**, passionate about crafting clean and meaningful software.  
+
+✨ Exploring the vast world of **development**, always seeking to refine my skills and broaden my perspective.  
+
+🚀 Currently diving into **Java & Spring Boot**.    
+
+🎮 In my free time: **gaming, reading, and discovering new ideas**.  
+
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueloneves7@gmail.com)
 
   <div align="left">
   <a href="https://www.linkedin.com/in/samuel-neves-61302a228/" target="_blank">
@@ -52,6 +60,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
         <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="eclipse logo" />
     </div>
   </div>
 </div>
